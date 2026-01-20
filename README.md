@@ -1523,30 +1523,12 @@
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8896.txt">Перейти</a></td>
     </tr>
     <tr>
-      <th scope="row">8932</th>
-      <td align="center"><img width="32" height="32" src="https://github.com/pwtracker/canglong/blob/main/icons/0.png" /></td>
-      <td align="center">常规偃月寒霜设置冷却</td>
-      <td align="center">?</td>
-      <td align="center">?</td>
-      <td align="center">?</td>
-      <td align="center">?</td>
-    </tr>
-    <tr>
-      <th scope="row">8933</th>
-      <td align="center"><img width="32" height="32" src="https://github.com/pwtracker/canglong/blob/main/icons/0.png" /></td>
-      <td align="center">盘古?偃月寒霜设置冷却</td>
-      <td align="center">?</td>
-      <td align="center">?</td>
-      <td align="center">?</td>
-      <td align="center">?</td>
-    </tr>
-    <tr>
       <th scope="row">8945</th>
       <td align="center"><img width="32" height="32" src="https://github.com/pwtracker/canglong/blob/main/icons/0.png" /></td>
       <td align="center">创世·神我之境</td>
       <td align="center">2</td>
       <td align="center">-</td>
-      <td align="center"><code>2a46646</code></td>
+      <td align="center"><code>a53f8ac</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8945.txt">Перейти</a></td>
     </tr>
   </tbody>
