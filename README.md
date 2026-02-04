@@ -70,7 +70,7 @@
       <td align="center">渡龙泽</td>
       <td align="center">10</td>
       <td align="center">-</td>
-      <td align="center"><code>85ec2fc</code></td>
+      <td align="center"><code>2317e33</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8717.txt">Перейти</a></td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@
       <td align="center">胧</td>
       <td align="center">5</td>
       <td align="center">-</td>
-      <td align="center"><code>0d4a334</code></td>
+      <td align="center"><code>f00abbe</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8737.txt">Перейти</a></td>
     </tr>
     <tr>
@@ -97,7 +97,7 @@
       <td align="center">聚龙息</td>
       <td align="center">1</td>
       <td align="center">-</td>
-      <td align="center"><code>1973316</code></td>
+      <td align="center"><code>e8066f0</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8738.txt">Перейти</a></td>
     </tr>
     <tr>
@@ -124,7 +124,7 @@
       <td align="center">贯虹式</td>
       <td align="center">10</td>
       <td align="center">-</td>
-      <td align="center"><code>5ab247a</code></td>
+      <td align="center"><code>a7899cd</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8741.txt">Перейти</a></td>
     </tr>
     <tr>
@@ -160,7 +160,7 @@
       <td align="center">潜龙跃</td>
       <td align="center">10</td>
       <td align="center">-</td>
-      <td align="center"><code>c3d38e9</code></td>
+      <td align="center"><code>5e0381a</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8745.txt">Перейти</a></td>
     </tr>
     <tr>
@@ -205,7 +205,7 @@
       <td align="center">万壑归宗</td>
       <td align="center">10</td>
       <td align="center">-</td>
-      <td align="center"><code>bb722f7</code></td>
+      <td align="center"><code>c108cc9</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8750.txt">Перейти</a></td>
     </tr>
     <tr>
@@ -250,7 +250,7 @@
       <td align="center">真·胧</td>
       <td align="center">1</td>
       <td align="center">-</td>
-      <td align="center"><code>f880878</code></td>
+      <td align="center"><code>05e9daa</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8755.txt">Перейти</a></td>
     </tr>
     <tr>
@@ -259,7 +259,7 @@
       <td align="center">狂·胧</td>
       <td align="center">1</td>
       <td align="center">-</td>
-      <td align="center"><code>9a2bd56</code></td>
+      <td align="center"><code>6439447</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8756.txt">Перейти</a></td>
     </tr>
     <tr>
@@ -268,7 +268,7 @@
       <td align="center">真·穿云式</td>
       <td align="center">1</td>
       <td align="center">-</td>
-      <td align="center"><code>8ee43b6</code></td>
+      <td align="center"><code>e714d95</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8757.txt">Перейти</a></td>
     </tr>
     <tr>
@@ -277,7 +277,7 @@
       <td align="center">狂·穿云式</td>
       <td align="center">1</td>
       <td align="center">-</td>
-      <td align="center"><code>fd83b4a</code></td>
+      <td align="center"><code>27d6407</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8758.txt">Перейти</a></td>
     </tr>
     <tr>
@@ -286,7 +286,7 @@
       <td align="center">真·破风式</td>
       <td align="center">1</td>
       <td align="center">-</td>
-      <td align="center"><code>1ca9733</code></td>
+      <td align="center"><code>0aaafd1</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8759.txt">Перейти</a></td>
     </tr>
     <tr>
@@ -304,7 +304,7 @@
       <td align="center">真·贯虹式</td>
       <td align="center">1</td>
       <td align="center">-</td>
-      <td align="center"><code>2875bdd</code></td>
+      <td align="center"><code>9efe3e1</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8761.txt">Перейти</a></td>
     </tr>
     <tr>
@@ -313,7 +313,7 @@
       <td align="center">狂·贯虹式</td>
       <td align="center">1</td>
       <td align="center">-</td>
-      <td align="center"><code>26d53cc</code></td>
+      <td align="center"><code>adfbab4</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8762.txt">Перейти</a></td>
     </tr>
     <tr>
@@ -376,7 +376,7 @@
       <td align="center">真·潜龙跃</td>
       <td align="center">1</td>
       <td align="center">-</td>
-      <td align="center"><code>5b6c75c</code></td>
+      <td align="center"><code>6f5246d</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8769.txt">Перейти</a></td>
     </tr>
     <tr>
@@ -385,7 +385,7 @@
       <td align="center">狂·潜龙跃</td>
       <td align="center">1</td>
       <td align="center">-</td>
-      <td align="center"><code>7d86bc4</code></td>
+      <td align="center"><code>73e8afc</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8770.txt">Перейти</a></td>
     </tr>
     <tr>
@@ -448,7 +448,7 @@
       <td align="center">真·流星崩岳</td>
       <td align="center">1</td>
       <td align="center">-</td>
-      <td align="center"><code>06f8d42</code></td>
+      <td align="center"><code>4d8c3fc</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8777.txt">Перейти</a></td>
     </tr>
     <tr>
@@ -457,7 +457,7 @@
       <td align="center">狂·流星崩岳</td>
       <td align="center">1</td>
       <td align="center">-</td>
-      <td align="center"><code>2497851</code></td>
+      <td align="center"><code>3bf7274</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8778.txt">Перейти</a></td>
     </tr>
     <tr>
@@ -466,7 +466,7 @@
       <td align="center">真·万壑归宗</td>
       <td align="center">1</td>
       <td align="center">-</td>
-      <td align="center"><code>440fca9</code></td>
+      <td align="center"><code>9222720</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8779.txt">Перейти</a></td>
     </tr>
     <tr>
@@ -475,7 +475,7 @@
       <td align="center">狂·万壑归宗</td>
       <td align="center">1</td>
       <td align="center">-</td>
-      <td align="center"><code>2d3f443</code></td>
+      <td align="center"><code>2403358</code></td>
       <td align="center"><a href="https://github.com/pwtracker/canglong/blob/main/skills/8780.txt">Перейти</a></td>
     </tr>
     <tr>
