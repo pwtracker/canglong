@@ -3,9 +3,7 @@
 
 В этом репозитории собраны все доступные описания умений, которыми вы можете воспользоваться для изучения механик нового класса.
 
-Готовый перевод описаний на русский язык доступен у [ColdGun](https://vk.com/@coldgun_pw-skilly-novogo-klassa-kanglogn). 
-
-Для самостоятельного перевода советуем использовать переводчики [DeepL](https://www.deepl.com/ru/translator/l/zh/ru) и [Yandex](https://translate.yandex.ru/?source_lang=zh&target_lang=ru), а отслеживать правки - через [журнал изменений](https://github.com/pwtracker/canglong/commits/main/).
+Готовый перевод описаний на русский язык вы можете найти у [ColdGun](https://vk.com/@coldgun_pw-skilly-novogo-klassa-kanglogn). Для самостоятельного перевода советуем использовать переводчики [DeepL](https://www.deepl.com/ru/translator/l/zh/ru) и [Yandex](https://translate.yandex.ru/?source_lang=zh&target_lang=ru), а отслеживать правки - через [журнал изменений](https://github.com/pwtracker/canglong/commits/main/).
 
 ## Список умений
 <table>
